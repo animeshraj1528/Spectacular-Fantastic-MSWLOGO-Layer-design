@@ -1,0 +1,4 @@
+to start 
+pu home pd setscreencolor [0 0 0] setpencolor [1500 1500 1500] repeat 100 [ repeat 4[fd 300 rt 90 fd 10] rt 1] setpencolor[1500 0 0] repeat 100 [ repeat 4[fd 250 rt 90 fd 10] rt 1 ] setpencolor [0 1500 0] repeat 100 [ repeat 4[fd 200 rt 90 fd 10] rt 1] setpencolor [0 1500 1500] repeat 100 [ repeat 4[fd 150 rt 90 fd 10] rt 1]
+end
+
